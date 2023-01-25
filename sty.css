@@ -17,3 +17,11 @@ body{
  h1,h2{
     color:blueviolet;
  }
+ .social{
+    background-color:gray;
+    width: 100%;
+    position: relative;
+    bottom: 5px;
+   
+    height: 50%;
+ }
